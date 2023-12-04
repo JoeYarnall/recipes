@@ -1,0 +1,22 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "session_date": "date",
+    "traits": "text",
+    "bonus_actions": "text",
+    "spells": "text",
+    "domain": "multitext",
+    "alive": "checkbox",
+    "canon": "multitext",
+    "ancestry": "multitext",
+    "faction": "multitext",
+    "origin": "multitext",
+    "scenario": "multitext",
+    "location": "multitext",
+    "population": "number",
+    "ordinal": "number",
+    "to": "multitext"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "outputFileName": "_output/orphaned",
+  "disableWorkingLinks": false,
+  "directoriesToIgnore": [
+    "_templates/",
+    "_attachments/",
+    "_output/"
+  ],
+  "filesToIgnore": [],
+  "fileTypesToIgnore": [],
+  "linksToIgnore": [],
+  "tagsToIgnore": [],
+  "fileTypesToDelete": [],
+  "ignoreFileTypes": true,
+  "ignoreDirectories": true,
+  "unresolvedLinksIgnoreDirectories": true,
+  "unresolvedLinksOutputFileName": "_output/broken",
+  "unresolvedLinksDirectoriesToIgnore": [
+    "_templates/",
+    "_attachments/",
+    "_output/"
+  ],
+  "unresolvedLinksFilesToIgnore": [],
+  "unresolvedLinksFileTypesToIgnore": [],
+  "unresolvedLinksLinksToIgnore": [],
+  "unresolvedLinksTagsToIgnore": [],
+  "withoutTagsDirectoriesToIgnore": [
+    "_templates/",
+    "_attachments/",
+    "_output/"
+  ],
+  "withoutTagsFilesToIgnore": [],
+  "withoutTagsOutputFileName": "_output/missing",
+  "emptyFilesOutputFileName": "empty files",
+  "emptyFilesDirectories": [],
+  "emptyFilesFilesToIgnore": [],
+  "emptyFilesIgnoreDirectories": true,
+  "openOutputFile": false
+}

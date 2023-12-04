@@ -1,0 +1,15 @@
+{
+  "baseFontSize": 17,
+  "translucency": false,
+  "cssTheme": "ITS Theme",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "supercharged-links-gen",
+    "dashboard",
+    "dashboard-ReadLineLength",
+    "table-auto-left"
+  ],
+  "accentColor": "",
+  "showViewHeader": false,
+  "nativeMenus": false
+}

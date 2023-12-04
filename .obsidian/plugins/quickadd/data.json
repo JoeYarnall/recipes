@@ -1,0 +1,385 @@
+{
+  "choices": [
+    {
+      "id": "14c8c679-abb0-4636-8ff0-abea7009fddc",
+      "name": "Activity",
+      "type": "Template",
+      "command": true,
+      "templatePath": "RPG-Common/_templates/node/_activity.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "NA1"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Campaign/Activities"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": true,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": false
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "cb707e2b-69d0-4123-82d2-80f25ef76d9a",
+      "name": "Character",
+      "type": "Template",
+      "command": true,
+      "templatePath": "RPG-Common/_templates/node/_character.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "NC1"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Campaign/Characters"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": true,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": false
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "8f663a98-2230-4aad-8278-20f2181aedb7",
+      "name": "Clue",
+      "type": "Template",
+      "command": true,
+      "templatePath": "RPG-Common/_templates/node/_clue.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "C1"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Campaign/Clues"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": true,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": false
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "909834bf-f110-4b29-961d-39e900b6dcc5",
+      "name": "Encounter",
+      "type": "Template",
+      "command": true,
+      "templatePath": "RPG-Common/_templates/node/_encounter.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "E1"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Campaign/Encounters"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": true,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": false
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "6f5908e5-b557-46c6-9254-e737be66c398",
+      "name": "Event",
+      "type": "Template",
+      "command": true,
+      "templatePath": "RPG-Common/_templates/node/_event.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "NE1"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Campaign/Events"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": true,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": false
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "b6973e8f-f8bd-4161-9baf-2a5f16a67ae1",
+      "name": "Faction",
+      "type": "Template",
+      "command": true,
+      "templatePath": "RPG-Common/_templates/node/_faction.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "NF1"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Campaign/Factions"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": true,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": false
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "36171c4c-b2fc-4dcd-b1e2-e9431884eb25",
+      "name": "Location",
+      "type": "Template",
+      "command": true,
+      "templatePath": "RPG-Common/_templates/node/_location.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "NL1"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Campaign/Locations"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": true,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": false
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "3bf6803b-2baf-4613-8e1d-fd183e9b2145",
+      "name": "Object",
+      "type": "Template",
+      "command": true,
+      "templatePath": "RPG-Common/_templates/node/_object.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "NO1"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Campaign/Objects"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": true,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": false
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "588e4447-536e-46f3-826d-10eeb4427fc6",
+      "name": "Revelation",
+      "type": "Template",
+      "command": true,
+      "templatePath": "RPG-Common/_templates/node/_revelation.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "NR1"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Campaign/Revelations"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": true,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": false
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "7a9927c9-07b9-4ac6-94e6-260f02d1567b",
+      "name": "Scenario",
+      "type": "Template",
+      "command": true,
+      "templatePath": "RPG-Common/_templates/node/_scenario.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "NS1"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Campaign/Scenarios"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": true,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": false
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "eed8e72b-10a7-41e6-aa43-981fa50b0581",
+      "name": "Session",
+      "type": "Template",
+      "command": true,
+      "templatePath": "RPG-Common/_templates/node/_session.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "S1"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Campaign/Sessions"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": true,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": false
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "17dd4724-9bc9-464e-8fb2-01336fe00d83",
+      "name": "Concept",
+      "type": "Template",
+      "command": true,
+      "templatePath": "_templates/page/_concept.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "WC1"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Wiki/Concepts"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": false
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    }
+  ],
+  "macros": [],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "",
+  "announceUpdates": true,
+  "version": "1.4.0",
+  "disableOnlineFeatures": true,
+  "ai": {
+    "OpenAIApiKey": "",
+    "defaultModel": "Ask me",
+    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+    "promptTemplatesFolderPath": "",
+    "showAssistant": true
+  },
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true
+  }
+}

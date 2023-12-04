@@ -1,0 +1,98 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "RPG-Common/_templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "RPG-Common/scripts",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "Campaign/Activities",
+      "template": "RPG-Common/_templates/node/_activity.md"
+    },
+    {
+      "folder": "Campaign/Ancestries",
+      "template": "RPG-Common/_templates/page/_ancestry.md"
+    },
+    {
+      "folder": "Campaign/Characters",
+      "template": "RPG-Common/_templates/node/_character.md"
+    },
+    {
+      "folder": "Campaign/Encounters",
+      "template": "RPG-Common/_templates/node/_encounter.md"
+    },
+    {
+      "folder": "Campaign/Clues",
+      "template": "RPG-Common/_templates/_clue.md"
+    },
+    {
+      "folder": "Campaign/Events",
+      "template": "RPG-Common/_templates/node/_event.md"
+    },
+    {
+      "folder": "Campaign/Factions",
+      "template": "RPG-Common/_templates/node/_faction.md"
+    },
+    {
+      "folder": "Campaign/Locations",
+      "template": "RPG-Common/_templates/node/_location.md"
+    },
+    {
+      "folder": "Campaign/Objects",
+      "template": "RPG-Common/_templates/node/_object.md"
+    },
+    {
+      "folder": "Campaign/Origins",
+      "template": "RPG-Common/_templates/page/_origin.md"
+    },
+    {
+      "folder": "Campaign/Revelations",
+      "template": "RPG-Common/_templates/node/_revelation.md"
+    },
+    {
+      "folder": "Campaign/Scenarios",
+      "template": "RPG-Common/_templates/node/_scenario.md"
+    },
+    {
+      "folder": "Campaign/Sessions",
+      "template": "RPG-Common/_templates/_session.md"
+    },
+    {
+      "folder": "Wiki/Articles",
+      "template": "RPG-Common/_templates/page/_article.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    "RPG-Common/_templates/node/_activity.md",
+    "RPG-Common/_templates/page/_ancestry.md",
+    "RPG-Common/_templates/page/_article.md",
+    "RPG-Common/_templates/node/_character.md",
+    "RPG-Common/_templates/_clue.md",
+    "RPG-Common/_templates/page/_concept.md",
+    "RPG-Common/_templates/node/_encounter.md",
+    "RPG-Common/_templates/node/_event.md",
+    "RPG-Common/_templates/node/_faction.md",
+    "RPG-Common/_templates/node/_location.md",
+    "RPG-Common/_templates/node/_object.md",
+    "RPG-Common/_templates/page/_origin.md",
+    "RPG-Common/_templates/node/_revelation.md",
+    "RPG-Common/_templates/page/_rule.md",
+    "RPG-Common/_templates/node/_scenario.md",
+    "RPG-Common/_templates/_session.md"
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "enable_ribbon_icon": true
+}
