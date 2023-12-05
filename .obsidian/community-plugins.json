@@ -5,7 +5,6 @@
   "obsidian-dictionary-plugin",
   "quickadd",
   "nldates-obsidian",
-  "obsidian-5e-statblocks",
   "obsidian-linter",
   "obsidian-minimal-settings",
   "table-extended",
@@ -20,9 +19,9 @@
   "better-word-count",
   "obsidian-git",
   "obsidian-hover-editor",
-  "fantasy-calendar",
   "dbfolder",
   "homepage",
   "templater-obsidian",
-  "buttons"
+  "buttons",
+  "obsidian-tasks-plugin"
 ]

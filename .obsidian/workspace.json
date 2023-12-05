@@ -8,24 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9f09dc7b0b669f02",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "empty",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "c76e70a0c64ecf07",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "5d442503451c2ebc",
             "type": "leaf",
             "state": {
@@ -33,8 +15,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,14 +132,6 @@
             }
           },
           {
-            "id": "c117dac0c37b8fff",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
             "id": "d902167f84576b02",
             "type": "leaf",
             "state": {
@@ -178,16 +151,17 @@
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-5e-statblocks:Open Creature Pane": false,
       "omnisearch:Omnisearch": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false,
       "dbfolder:Create a new database table": false,
       "homepage:Open homepage": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1d673c3c6527177f",
+  "active": "5d442503451c2ebc",
   "lastOpenFiles": [
+    "recipes",
+    "_templates",
+    "New folder",
     "scripts/suggester.js",
     "scripts/mutate_frontmatter.js",
     "scripts/multi_suggester.js",
@@ -226,9 +200,6 @@
     "RPG-Common/scripts/suggester.js",
     "RPG-Common/scripts/multi_suggester - Copy.js",
     "RPG-Common/scripts/multi_suggester.js",
-    "RPG-Common/scripts/mutate_frontmatter.js",
-    "RPG-Common/scripts",
-    "_attachments/albridge.jpg.crdownload",
     "Monsters.canvas",
     "Stratos Node Graph.canvas"
   ]
