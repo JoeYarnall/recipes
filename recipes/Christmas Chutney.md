@@ -1,3 +1,8 @@
+---
+tags:
+  - Recipes
+aliases:
+---
 
 # Christmas Chutney
 ## Ingredients
