@@ -12,16 +12,16 @@ aliases:
 - 1 red bell pepper
 - 4 carrots, peeled
 - 2 heads garlic
-- 3 cups cherry tomatoes
+- ~450g cherry tomatoes
 - 2-4 tbsp avocado oil
 - 1 tsp salt
 - 1 tsp paprika
 - 1 tsp pepper
 - 1 tsp thyme
-- 2 cups vegetable broth, plus more if needed
+- 500ml vegetable broth, plus more if needed
 
 ## Instructions
-1. Preheat oven to 425°F. Place squash cut-side up on a baking tray. Add the onion halves into the squash cavities. Add the bell pepper, carrots, garlic and cherry tomatoes to the tray.
+1. Preheat oven to 220°C (200°C fan). Place squash cut-side up on a baking tray. Add the onion halves into the squash cavities. Add the bell pepper, carrots, garlic and cherry tomatoes to the tray.
 2. Drizzle everything with oil and season with salt, paprika, pepper and thyme, ensuring to rub the seasoning into the squash.
 3. Roast for 50–60 minutes, or until everything is soft and caramelized.
 4. Scoop the squash out of the skin and add everything from the tray to a blender, including the roasted garlic and juices.

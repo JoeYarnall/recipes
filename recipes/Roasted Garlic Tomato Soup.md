@@ -17,14 +17,14 @@ aliases:
 - handful of fresh basil
 - 1 tsp dried oregano
 - Salt & freshly ground black pepper
-- 480–720 ml vegetable broth (2–3 cups)
+- 500–750ml vegetable broth
 - Extra olive oil, coconut cream & sourdough bread for garnish
 
 ## Instructions
-1. Preheat oven to 200°C (400°F). Place tomatoes, peppers, zucchinis, carrots & onions on a baking sheet. Drizzle with 2 tbsp olive oil, season with oregano, salt & pepper.
+1. Preheat oven to 200°C (180°C fan). Place tomatoes, peppers, zucchinis, carrots & onions on a baking sheet. Drizzle with 2 tbsp olive oil, season with oregano, salt & pepper.
 2. Slice tops off garlic heads, add them to the tray.
 3. Roast everything for 40–50 mins until tender & slightly charred. Garlic should be soft.
-4. Transfer veggies to a blender, squeeze garlic out of skins, add the basil and 2–3 cups broth, blend until smooth.
+4. Transfer veggies to a blender, squeeze garlic out of skins, add the basil and 500–750ml broth, blend until smooth.
 5. Pour into a pot, simmer gently. Adjust seasoning.
 6. Serve with a drizzle of coconut cream & olive oil + toasted sourdough.
 

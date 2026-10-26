@@ -15,10 +15,10 @@ aliases:
 - 3-4 tbsp olive oil
 - ½ tsp each: cinnamon, paprika, dried thyme
 - Salt and pepper to taste
-- Vegetable broth (about 3–4 cups, or as needed)
+- Vegetable broth (about 750ml–1 litre, or as needed)
 
 ## Instructions
-1. Preheat oven to 400°F.
+1. Preheat oven to 200°C (180°C fan).
 2. Place all prepared vegetables on a parchment-lined baking tray with the garlic heads cut-side up.
 3. Drizzle generously with olive oil and season with cinnamon, paprika, thyme, salt and pepper.
 4. Roast for 35–40 minutes, or until the sweet potatoes are fork-tender and the vegetables are nicely roasted (be careful not to burn!).
